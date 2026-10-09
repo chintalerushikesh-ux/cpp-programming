@@ -63,3 +63,12 @@ int main() {
 
     return 0;
 }
+/*
+Rectangle Area: 200
+Square Area: 25
+Circle Area: 50.24
+
+--------------------------------
+Process exited after 0.07032 seconds with return value 0
+Press any key to continue . . .
+    */
